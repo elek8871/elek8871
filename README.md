@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python3 and Algorithms
 - 💞️ I’m looking to collaborate on full-stack apps
 - 📫 How to reach me ... Linkedin : https://www.linkedin.com/in/michelle-elek/
+- 🖥 My Portfolio ... https://portfolio-elek8871.vercel.app/
 
 <!---
 elek8871/elek8871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
